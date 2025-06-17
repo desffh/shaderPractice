@@ -68,12 +68,24 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _NormalFromTexture_719a331f88d04cc3bf645162b26a9a0a_Texture_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: cd509543e677d4d4abce0626f6d49cf0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_4319161d439d43a48d701fca9840e9f0_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 78e4ee262e124ca43bf66ad720d156d0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_44e8e1accf9c4539b07149735f210fd6_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: cd509543e677d4d4abce0626f6d49cf0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_9dfc217d0c78404abe71812e6afca7f9_Texture_1_Texture2D:
@@ -90,6 +102,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_e2df04f63eeb48b2a6eb39c1407c4e90_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: 9b416edcd20e8c145b95fda684a46920, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_fdaedd2ba7504a9a9eef52f56732cc04_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 71861a32cd5a5844e89418e74eda06f5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
